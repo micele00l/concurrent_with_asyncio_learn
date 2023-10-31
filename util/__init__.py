@@ -1,2 +1,2 @@
-from util.util import delay
-from util.async_timed import async_timed
+from util.delay_func import delay
+from util.async_timer import async_timed
